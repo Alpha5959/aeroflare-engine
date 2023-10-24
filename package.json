@@ -1,0 +1,18 @@
+{
+  "name": "aeroflare",
+  "version": "1.0.0",
+  "description": "A advanced nuke bot, supports latest versions.",
+  "main": "aeroflare.js",
+  "scripts": {
+    "aeroflare": "node aeroflare.js"
+  },
+  "author": "alphax",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "winston": "^3.11.0",
+    "discord.js": "^14.13.0"
+  }
+}

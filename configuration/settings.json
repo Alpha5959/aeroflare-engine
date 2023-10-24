@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "admins": ["YOUR_USER_ID"],
+  "disableEveryone": false,
+  "fakeServers": "100"
+}
