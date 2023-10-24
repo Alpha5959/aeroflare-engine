@@ -5,6 +5,7 @@ The program is intended for educational purposes only, which means it is not int
 
 ![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg) 
+![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 ![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
 
@@ -30,7 +31,10 @@ The program is intended for educational purposes only, which means it is not int
 - The creator and contributors bear no responsibility for your usage of this software.
 - You can not edit the internal codes.
 
-![Developer](https://img.shields.io/badge/developer-alphax-x)
+## Developers & Maintenance
+- **mr_alphax**
+- **._clone.deep**
+
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
 
 ## Usage Guidelines
