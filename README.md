@@ -46,4 +46,7 @@ The program is intended for educational purposes only, which means it is not int
 ## Usage Guidelines
 The Aeroflare Engine is a powerful tool that demands responsible handling. When utilizing it, always ensure you have explicit permission from server owners or administrators. Unauthorized or malicious use of such tools can result in legal consequences and ethical concerns. Respect the boundaries set by the law and adhere to the terms and conditions of any platform or server you interact with.
 
+## WARNING
+**USE IT AT YOUR OWN RISK! WE TAKE NO RESPONSIBILITY FOR ANY ACTIONS TAKEN. BY UTILIZING THIS, YOU ARE AGREEING TO THESE TERMS. THIS IS YOUR CLEAR WARNING.**
+
 > We strongly encourage collaboration and contributions to enhance and secure this project further. If you have questions, concerns, or ideas for improvement, please don't hesitate to reach out to the project's contributors.
