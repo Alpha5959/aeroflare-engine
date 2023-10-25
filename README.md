@@ -22,6 +22,8 @@ The program is intended for educational purposes only, which means it is not int
 | Delete Emotes | af>demotes | --- | --- | Deletes *all emotes*. |
 | Delete Stickers | af>dstickers | --- | --- | Deletes all *stickers*. |
 | Deletes all roles | af>droles | --- | --- | Deletes all *roles*. |
+| Opens AeroFlare Engine Panel | af>panel | --- | --- | Open command panel of *AeroFlare*. |
+| Stop AeroFlare Engine | af>panel | --- | --- | Stops *AeroFlare* Engine. |
 
 ---
 
