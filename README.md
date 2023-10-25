@@ -26,16 +26,7 @@ The program is intended for educational purposes only, which means it is not int
 ---
 
 ## ChangeLogs
-- Presenting Version **1.3.50**:
-  - `Enhanced Speed`: Experience lightning-fast performance.
-  - `Streamlined Optimization`: We've fine-tuned every aspect for peak efficiency.
-  - `Seamless TypeScript` Integration: Now seamlessly connected with TypeScript for smoother development.
-  - `Optimized Functions`: Our functions are now supercharged for a superior user experience.
-  - `Robust Security Updates`: We've bolstered security to safeguard your data.
-  - `Ironclad Codebase`: Your code is now locked down with top-notch security measures.
-  - `Revamped Logging`: Keep track of your operations with our upgraded logging system.
-  - `Introducing m>stop`: Your command, your control. m>stop is now at your service.
----
+- Check the Release's for the latest changes.
 
 ## Disclaimer
 **By choosing to use this program, you acknowledge the following**:
